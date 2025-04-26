@@ -23,6 +23,9 @@ function LoginFormModal() {
     alert(`Welcome, ${name}!`);
   };
 
+
+  
+
   return (
     <form onSubmit={handleRegister}>
       {error && <div className="alert alert-danger">{error}</div>}
