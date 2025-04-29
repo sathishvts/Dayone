@@ -38,8 +38,8 @@ function Aboutus() {
                               }}
                           >
                               <div class="col-md-6">
-                                  <div class="challenge-content">
-                                      <h3 class="fw-bold ">JOIN THE 30-DAY CHALLENGE</h3>
+                                  <div className="challenge-content">
+                                      <h3 className="fw-bold ">JOIN THE 30-DAY CHALLENGE</h3>
                                       <p>
                                           Our 30-Day Challenge is a fun and effective way to kick-start your journey towards better health.
                                           This program is designed to help you build lasting habits and see noticeable improvements in just one month!
